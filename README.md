@@ -39,7 +39,7 @@ DUOLİNGO WEB APPLİCATİON CLONE
 #### 
 <a href="https://github.com/omerfarukyapici/duolingo-clone">
   <div>
-    <img align="center" src="https://user-images.githubusercontent.com/68571009/155847841-a730121e-e33c-4078-8f36-881bdab6066a.png" />
+    <img align="center" width="600" src="https://user-images.githubusercontent.com/68571009/155847841-a730121e-e33c-4078-8f36-881bdab6066a.png" />
   </div>
 </a>
 
