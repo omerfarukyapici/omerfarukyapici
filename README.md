@@ -34,7 +34,7 @@
 
 <br/>
 <div display="flex">
-   <img width="120px" height="80%" align="center" src="https://user-images.githubusercontent.com/68571009/155844183-593b37fb-c360-41ed-a4d6-aa1251a8f574.png" /> 
+   <img width="120px" height="100px" align="center" src="https://user-images.githubusercontent.com/68571009/155844183-593b37fb-c360-41ed-a4d6-aa1251a8f574.png" /> 
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155848528-663e6f30-f13c-4d04-b24a-d9f5c8abaa16.png" />
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155848531-72fffbc4-526f-4a34-a773-0b50d0f54333.png" /> 
   
