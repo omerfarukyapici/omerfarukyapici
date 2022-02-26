@@ -14,7 +14,9 @@ DUOLİNGO WEB APPLİCATİON CLONE
   <div>
     <img align="center" src="https://user-images.githubusercontent.com/68571009/155842836-657f1890-8c21-42cb-b390-f89902442549.jpg" />
   </div>
-  <div>
+</a>
+<br/>
+<div display="flex">
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155844183-593b37fb-c360-41ed-a4d6-aa1251a8f574.png" /> 
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155844186-ce644cab-4db3-40ee-af9d-9a91e7a3d1c5.png" />
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155844191-7da6e087-8638-47b8-aa18-8de3f4585ddf.png" /> 
@@ -29,8 +31,7 @@ DUOLİNGO WEB APPLİCATİON CLONE
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155844222-6ec1060e-afc1-4773-9315-a230baa1f10b.png" /> 
    <img width="120px" align="center" src="https://user-images.githubusercontent.com/68571009/155844225-11cdbf4e-fa03-4a14-9414-c4d95746c7a4.png" />
   </div>
-</a>
-
+<br/>
 📦 Data Box
 <br/>
 <a href="https://github.com/omerfarukyapici/duolingo-clone">
