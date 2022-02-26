@@ -1,15 +1,30 @@
 <h1>Hi there 👋</h1>
 
-My Name is Ömer Faruk. <br/> 
-I'am a React Front-End Web Developer and Associate degree Computer Programmer. <br/>
-I love Programing and Creating new things. My Mainly Focus on JavaScript. 
+<h3>My Name is Ömer Faruk.</h3> <br/> 
+<h3>I'am From Turkey</h3>
+<h3> I'am a React Front-End Web Developer and Associate degree Computer Programmer. </h3><br/>
+<h3>I ❤️ Programing and Creating new things. My Mainly Focus on JavaScript.</h3>  
+<h3>Still Learning</h3>
+
+#### 
+<div>
+  <h2>Tools<h2>
+    <h4>⇨ JavaScript</h4>
+    <h4>⇨ React.js</h4>
+    <h4>⇨ Tailwind</h4>
+    <h4>⇨ Css</h4>
+    <h4>⇨ Rest Api</h4>
+    <h4>⇨ OOP</h4>
+</div>
 
 
-🥳 This İs My Biggest Project Ever 🥳
+
 
 #### 
 
-DUOLİNGO WEB APPLİCATİON CLONE
+<h1> 🌕 DUOLİNGO WEB APPLİCATİON CLONE 🌕 </h1>
+<h3>This İs My Biggest Project Ever 🥳</h3>
+
 <br/>
 <a href="https://github.com/omerfarukyapici/duolingo-clone">
   <div>
