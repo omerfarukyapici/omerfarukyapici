@@ -22,7 +22,7 @@
 #### 
 
 <h1> 🌕 DUOLİNGO WEB APPLİCATİON CLONE 🌕 </h1>
-<h3>This İs My Biggest Project Ever 🥳</h3>
+<h3>This İs My Biggest React.js Project Ever 🥳</h3>
 
 <br/>
 <a href="https://github.com/omerfarukyapici/duolingo-clone">
