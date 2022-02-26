@@ -69,8 +69,11 @@
 
 
 
-    
-    
+#### 
+<div>
+  <h4>⇨ <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-yap%C4%B1c%C4%B1-57b5b11b6/"> Linkedin </a> </h4>
+  <h4>⇨ <a href="https://twitter.com/DeveloperOmer"> Twitter </a> </h4>
+</div>
     
     
     
