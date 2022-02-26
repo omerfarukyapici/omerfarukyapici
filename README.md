@@ -33,11 +33,6 @@ DUOLİNGO WEB APPLİCATİON CLONE
 <br/>
 
 
-📦 Data Box
-<br/>
-<a href="https://github.com/omerfarukyapici/duolingo-clone">
-  <img align="center" src="https://user-images.githubusercontent.com/68571009/155843260-f8b667d8-56ed-421a-aa92-c614a9642d94.jpg" />
-</a>
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukyapici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
