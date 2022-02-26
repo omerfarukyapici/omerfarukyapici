@@ -24,6 +24,10 @@ DUOLİNGO WEB APPLİCATİON CLONE
    <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844202-73cfe3e5-e53a-4536-8249-e80163c8232b.png" />
    <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844210-e4a13188-df7c-429c-9449-1cefe18f6b1a.png" /> 
    <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844214-bd12afdd-4dfc-444f-bc8f-f38c6c0f8e39.png" />
+   
+   <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844218-cf96f40c-9a76-43da-b8bd-774e8fb587a1.png" />
+   <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844222-6ec1060e-afc1-4773-9315-a230baa1f10b.png" /> 
+   <img width="150px" align="center" src="https://user-images.githubusercontent.com/68571009/155844225-11cdbf4e-fa03-4a14-9414-c4d95746c7a4.png" />
   </div>
 </a>
 
