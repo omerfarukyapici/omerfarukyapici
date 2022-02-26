@@ -1,7 +1,8 @@
 <h1>Hi there 👋</h1>
 
-My Name is Ömer Faruk. I'am a React Front-End Web Developer. <br/>
-Also I'am associate degree Computer Programmer. I love Programing and Creating new things. My Mainly Focus on JavaScript. 
+My Name is Ömer Faruk. <br/> 
+I'am a React Front-End Web Developer and Associate degree Computer Programmer. <br/>
+I love Programing and Creating new things. My Mainly Focus on JavaScript. 
 
 
 🥳 This İs My Biggest Project Ever 🥳
