@@ -38,7 +38,7 @@ DUOLİNGO WEB APPLİCATİON CLONE
 
 #### 
 
-<h1 style="color:red;"> MY PORTFOLİO ⬇️ </h1>
+<h1 > MY PORTFOLİO ⬇️ </h1>
 
 <a href="https://github.com/omerfarukyapici/duolingo-clone">
   <div>
