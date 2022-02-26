@@ -4,7 +4,7 @@
 <h3>I'am From Turkey</h3>
 <h3> I'am a React Front-End Web Developer and Associate degree Computer Programmer. </h3><br/>
 <h3>I ❤️ Programing and Creating new things. My Mainly Focus on JavaScript.</h3>  
-<h3>Still Learning</h3>
+
 
 #### 
 <div>
