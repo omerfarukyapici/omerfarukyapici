@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/68571009/155843475-806f8b0c-ae2d-4470-af56-88a102b9a77a.jpg)
+![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/68571009/155843503-9e4b969c-ad60-47e3-8583-3dfa9bde24af.jpg)
 
 ### Hi there 👋
 
@@ -23,6 +23,5 @@ DUOLİNGO WEB APPLİCATİON CLONE
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerfarukyapici&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukyapici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
