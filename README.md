@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/68571009/155843475-806f8b0c-ae2d-4470-af56-88a102b9a77a.jpg)
 
 ### Hi there 👋
 
