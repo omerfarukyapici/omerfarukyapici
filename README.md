@@ -25,7 +25,7 @@
 <h3>This İs My Biggest React.js Project Ever 🥳</h3>
 
 <br/>
-<a href="https://omerfarukyapici.github.io/duolingo-clone/#/">
+<a href="https://omerfarukyapici.github.io/duolingo-clone/#/" target="_blank">
   <div>
     <img align="center" src="https://user-images.githubusercontent.com/68571009/155842836-657f1890-8c21-42cb-b390-f89902442549.jpg" />
   </div>
