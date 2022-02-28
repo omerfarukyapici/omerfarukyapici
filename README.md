@@ -55,7 +55,7 @@
 
 <h1 > MY PORTFOLİO ⬇️ </h1>
 
-<a href="https://github.com/omerfarukyapici/portfolio">
+<a href="https://omerfarukyapici.github.io/portfolio/#/">
   <div>
     <img align="center" src="https://user-images.githubusercontent.com/68571009/155847841-a730121e-e33c-4078-8f36-881bdab6066a.png" />
   </div>
