@@ -14,7 +14,7 @@
     <h4>⇨ Tailwind</h4>
     <h4>⇨ Css</h4>
     <h4>⇨ API</h4>
-    <h4>⇨ Rest Api</h4>
+    <h4>⇨ Rest API</h4>
     <h4>⇨ OOP</h4>
 </div>
 
