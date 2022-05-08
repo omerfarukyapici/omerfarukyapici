@@ -10,8 +10,10 @@
   <h2>Tools<h2>
     <h4>⇨ JavaScript</h4>
     <h4>⇨ React.js</h4>
+    <h4>⇨ TypeScript</h4>
     <h4>⇨ Tailwind</h4>
     <h4>⇨ Css</h4>
+    <h4>⇨ API</h4>
     <h4>⇨ Rest Api</h4>
     <h4>⇨ OOP</h4>
 </div>
