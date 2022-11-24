@@ -23,8 +23,8 @@
 
 #### 
 
-<h1> 🌕 DUOLİNGO WEB APPLİCATİON CLONE 🌕 </h1>
-<h3>This İs My Biggest React.js Project Ever 🥳</h3>
+<h1> 🌕 DUOLINGO WEB APPLICATION CLONE 🌕 </h1>
+<h3>This is My Biggest React.js Project Ever 🥳</h3>
 
 <br/>
 <a href="https://omerfarukyapici.github.io/duolingo-clone/#/">
@@ -55,7 +55,7 @@
 
 #### 
 
-<h1 > MY PORTFOLİO ⬇️ </h1>
+<h1 > MY PORTFOLIO ⬇️ </h1>
 
 <a href="https://omerfarukyapici.github.io/portfolio/#/">
   <div>
