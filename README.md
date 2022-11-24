@@ -12,8 +12,6 @@
     <h4>⇨ React.js</h4>
     <h4>⇨ TypeScript</h4>
     <h4>⇨ Tailwind CSS</h4>
-    <h4>⇨ CSS</h4>
-    <h4>⇨ API</h4>
     <h4>⇨ Rest API</h4>
     <h4>⇨ OOP</h4>
 </div>
