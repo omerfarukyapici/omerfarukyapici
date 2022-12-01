@@ -1,8 +1,8 @@
 <h1>Hi there 👋</h1>
 
-<h3>My Name is Ömer Faruk.</h3>
-<h3> I'm a Front-End Developer and Computer Programmer. </h3>
-<h3>I ❤️ Programming and Creating new things.</h3>  
+<h3>My name is Ömer Faruk.</h3>
+<h3> I'm a Front-End developer and computer programmer. </h3>
+<h3>I ❤️ programming and creating new things.</h3>  
 
 #### 
 <div>
